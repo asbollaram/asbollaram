@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Srinivas Bllaram
 - 👀 I’m Looking for Job change in India Hyderbad location only.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently Looking for changes on reactJs developer ...
 - 💞️ I’m looking to collaborate new buddys
 - 📫 How to reach me ...
-- asbollaram@gmail.com
+- asbollaram@gmail.com..
+-
 -Professional Summary,
 •	Over 9.5 years of experience in application and web development with emphasis on HTML5, XML, CSS 2/3, AJAX, DOM, JavaScript, jQuery, and JAVA technology.
 •	Experience in Software life cycle phases like Requirement Analysis, Implementation and estimating the timelines for the project.
